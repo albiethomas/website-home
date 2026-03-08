@@ -84,13 +84,14 @@ input, select, textarea {
 
 	html {
 		background-color: #313a3d;
-		background-attachment: fixed,						fixed;
+		background-attachment: fixed;
 		/* background-image: url("images/overlay.png"), url("../../images/quantumwaterreflection.JPEG"); */
 		background-image: url("../../images/quantumwaterreflection.JPEG");
-		background-size: 150%;
-		background-position: centre center;
-		background-repeat: none;
+		background-size: 125%;
 		/*background-size: 100% auto;*/
+		background-position: center bottom;
+		background-repeat: no-repeat;
+		
 	}
 
 	html.is-preload *, html.is-preload *:before, html.is-preload *:after {
