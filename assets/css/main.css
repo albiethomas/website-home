@@ -89,7 +89,7 @@ input, select, textarea {
 		background-image: url("../../images/quantumwaterreflection.JPEG");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
-		background-size: auto,						cover;
+		background-size: auto,						contain;
 	}
 
 	html.is-preload *, html.is-preload *:before, html.is-preload *:after {
