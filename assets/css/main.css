@@ -87,10 +87,10 @@ input, select, textarea {
 		background-attachment: fixed,						fixed;
 		/* background-image: url("images/overlay.png"), url("../../images/quantumwaterreflection.JPEG"); */
 		background-image: url("../../images/quantumwaterreflection.JPEG");
-		 background-size: 150%;
-		background-position: centre bottom;
+		background-size: 150%;
+		background-position: centre center;
 		background-repeat: none;
-		background-size: 100% auto;
+		/*background-size: 100% auto;*/
 	}
 
 	html.is-preload *, html.is-preload *:before, html.is-preload *:after {
