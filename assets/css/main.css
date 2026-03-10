@@ -2271,14 +2271,17 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
-
+/* image row no idea if work need ot actually learn  */
 		.image.row {
 			position: relative;
 		  	overflow: hidden;
-		  	height: 300px; /* set your desired height */
+			margin: 0 0 2em 0;
+			gap: 1.5rem;
+		  	height: 100px; /* set your desired height */
 		}
 		
 		.image.row img {
+			width: 33%;
 		  	height: auto%;
 		  	object-fit: contain;
 		}
