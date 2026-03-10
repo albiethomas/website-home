@@ -2272,12 +2272,12 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image-row {
+		.image.row {
    			display: flex;
     		gap: 1.5rem;
 		}
 
-			.image-row img {
+			.image.row img {
     		width: 33%;
     		height: auto;
     		object-fit: cover;
